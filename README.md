@@ -1,4 +1,4 @@
-# IUST-DL-Assignments
+# IUST-Compiler-Assignments
 My solutions to IUST's Fundamentals of Compiler Design assignments, Spring 2022, [Dr. Parsa](https://scholar.google.com/citations?user=uONxvOwAAAAJ&hl=en)
 
 
