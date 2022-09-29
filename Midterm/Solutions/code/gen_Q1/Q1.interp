@@ -1,0 +1,32 @@
+token literal names:
+null
+'F1:'
+'F2:'
+null
+null
+null
+null
+null
+null
+null
+null
+
+token symbolic names:
+null
+null
+null
+Number1
+Number2
+Max11
+Max12
+Max13
+Max21
+Max22
+Max23
+
+rule names:
+compilationUnit
+
+
+atn:
+[4, 1, 10, 9, 2, 0, 7, 0, 1, 0, 1, 0, 1, 0, 1, 0, 3, 0, 7, 8, 0, 1, 0, 0, 0, 1, 0, 0, 0, 8, 0, 6, 1, 0, 0, 0, 2, 3, 5, 1, 0, 0, 3, 7, 5, 3, 0, 0, 4, 5, 5, 2, 0, 0, 5, 7, 5, 4, 0, 0, 6, 2, 1, 0, 0, 0, 6, 4, 1, 0, 0, 0, 7, 1, 1, 0, 0, 0, 1, 6]
