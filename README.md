@@ -29,6 +29,11 @@ My solutions to IUST's Fundamentals of Compiler Design assignments, Spring 2022,
 	- Generate Abstract Syntax Tree (AST) with ANTLR
 	- Generate 3 Address Code (TAC) with ANTLR
     - LL(K) Grammar
+- Final Project
+	- OpenUnderstand
+ 	- An open-source SciTools Understand Python API implementation for code analysis.
+  	- Developed analysis passes to identify a set of reference kinds and their corresponding entities and code metrics like Cyclomatic complexity.
+ 	- [GitHub](https://github.com/m-zakeri/OpenUnderstand)
 - Midterm
 	- Writing grammars in ANTLR
 	- Writing ANTLR listener for software metric
